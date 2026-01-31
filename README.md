@@ -1,2 +1,2 @@
-# ai-diet-engine
+# ai_dietengin
 engine
